@@ -1,4 +1,3 @@
 {
-  "outputDirectory": "dist/client",
-  "framework": null
+  "outputDirectory": "dist/client"
 }
